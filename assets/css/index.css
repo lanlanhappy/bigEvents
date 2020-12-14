@@ -1,0 +1,29 @@
+.iconfont {
+    margin-right: 8px;
+}
+
+.layui-icon-app {
+    margin-left: 20px;
+    margin-right: 8px;
+}
+
+.textAvatar {
+    display: inline-block;
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #009688;
+    text-align: center;
+    line-height: 40px;
+}
+
+.userShow {
+    padding: 10px 0;
+    text-align: center;
+    border-bottom: 1px solid #000;
+}
+
+.hello {
+    font-size: 12px;
+}
